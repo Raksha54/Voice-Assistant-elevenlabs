@@ -1,0 +1,6 @@
+elevenlabs==1.5.4
+elevenlabs[pyaudio]
+python-dotenv==1.0.1
+pip install -r requirements.txt
+Or install manually : 
+pip install elevenlabs elevenlabs[pyaudio] python-dotenv
